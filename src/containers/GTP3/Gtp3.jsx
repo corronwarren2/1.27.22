@@ -4,7 +4,7 @@ import './gtp3.css';
 const Gtp3 = () => {
     return (
         <div>
-          <h1>Brand</h1>
+          <h1>GTP3</h1>
         </div>
       );
     }

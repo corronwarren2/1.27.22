@@ -4,7 +4,7 @@ import './footer.css';
 const Footer = () => {
     return (
         <div>
-          <h1>Brand</h1>
+          <h1>Footer</h1>
         </div>
       );
     }
